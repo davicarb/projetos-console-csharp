@@ -1,4 +1,7 @@
 teste de programação (json):
--> serializar as informações da previsão do clima de um dia específico numa lista, e depois guardar os dados num json.
+-> serializar as informações da previsão do clima de um dia específico numa lista,
+e depois guardar os dados num json.
 
-após o programa fechar, a ideia é que o programa salve os dados no arquivo json, e carregar quando o programa abrir, mostrando todos os dados referente que a pessoa quer referente ao dia que ela escreveu as informações da previsã do clima.
+após o programa fechar, a ideia é que o programa salve os dados no arquivo json, e carregar
+quando o programa abrir, mostrando todos os dados referente que a pessoa quer referente ao
+dia que ela escreveu as informações da previsã do clima.
